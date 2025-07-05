@@ -22,8 +22,8 @@ TinRide is a free, user-friendly app that simplifies navigation and management o
 
 ## Built Files
 
-- **Android APK**: [Download TinRide Preview APK (Not Built/Deployed Yet)](https://github.com/newben420) to install on compatible Android devices for a hands-on demo.
-- **iOS IPA**: [Download TinRide Preview IPA (Not Built/Deployed Yet)](https://github.com/newben420) to install on a compatible iOS simulator or test environment (e.g., Xcode).
+- **Android APK**: [Download TinRide Preview APK](https://drive.google.com/file/d/1WmFAfoQ9HjJrvoK0U9so9Rx3iziwMWdL/view?usp=sharing) to install on compatible Android devices for a hands-on demo.
+- **iOS Simulator**: [Download TinRide Preview](https://drive.google.com/file/d/1pS7nlKJlMir73oZrzcPiwj9y5aUpKE7b/view?usp=sharing) to install on a compatible iOS simulator or test environment (e.g., Xcode).
 
 **Note:** Ensure your device allows installation from unknown sources for APK, and use a provisioning profile for IPA.
 
